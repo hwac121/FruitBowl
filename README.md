@@ -1,6 +1,6 @@
 # FruitBowl
 Handy little utility addition for FruityWiFi
-# ONLY tested with Parrot Security OS v4.6
+ONLY tested with Parrot Security OS v4.6 but I am pretty sure it would work just fine with other similar debian distros.
 
 INSTRUCTIONS FOR FRUITBOWL
 --
